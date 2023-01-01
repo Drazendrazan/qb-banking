@@ -1,3 +1,9 @@
+/*!
+Re worked by OXYFW
+https://discord.gg/ct5apdKCk2
+Mahfuz#0011
+ */
+
 var Config = new Object();
 Config.closeKeys = [69, 27];
 Config.ATMTransLimit = 5000;

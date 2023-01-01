@@ -1,15 +1,7 @@
 /*!
- * jQuery JavaScript Library v1.12.4
- * https://jquery.com/
- *
- * Includes Sizzle.js
- * https://sizzlejs.com/
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license
- * https://jquery.org/license
- *
- * Date: 2016-05-20T17:17Z
+Re worked by OXYFW
+https://discord.gg/ct5apdKCk2
+Mahfuz#0011
  */
 
 (function( global, factory ) {
