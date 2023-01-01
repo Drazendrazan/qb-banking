@@ -1,16 +1,7 @@
 ## A UI redesign of QB Core banking
 
-    This is just a UI redesign of the QB-Core banking script:
+    This is just a UI redesign of the QB-Core banking script By Mahfuz:
    - [qb-banking](https://github.com/qbcore-framework/qb-banking)
-    
-    Credit to Scorpion.#5940 in the QB-Core community Discord for the original redesign.
-    All I have done is taken his awesome redesign and added my own purple theme with some 
-    other little changes to suit my personal preferences.
-    
-    I will not offer any support with this as I am a very busy person plus I am still
-    early learning with .css and .js. Use this at your own risk. Currently I have had zero
-    issues while running on Artifact: 5352, Game Build: 2372 and running latest build of
-    qb-core framework as of 22/02/2022.
 
 # qb-banking
 
@@ -37,11 +28,10 @@
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For keeping records
 
 ## Screenshots
-![Account Home](https://cdn.discordapp.com/attachments/675945149502717983/945921735537082378/FiveM_b2372_GTAProcess_saS1C1lFyZ.png)
-![Withdrawals](https://cdn.discordapp.com/attachments/675945149502717983/945921735218331698/FiveM_b2372_GTAProcess_4PW6ClMeu0.png)
-![Transfer](https://cdn.discordapp.com/attachments/675945149502717983/945921734928920606/FiveM_b2372_GTAProcess_pp3u47JT7p.png)
-![Savings Account](https://cdn.discordapp.com/attachments/675945149502717983/945921734656274432/FiveM_b2372_GTAProcess_ftBaj9u2tL.png)
-![Account Options](https://cdn.discordapp.com/attachments/675945149502717983/945921735855853628/FiveM_b2372_GTAProcess_WdJsW25KKy.png)
+![Full Preview](https://media.discordapp.net/attachments/762036331710644277/1058905634193551480/Banking_UI.png?width=1214&height=683)
+
+## My Discord
+[Click here to join my Discord server:](https://discord.gg/ct5apdKCk2)
 
 ## Features
 - Debit card (MasterCard/Visa) with PIN
