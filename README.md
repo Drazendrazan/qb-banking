@@ -28,7 +28,7 @@
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For keeping records
 
 ## Screenshots
-![Full Preview](https://media.discordapp.net/attachments/762036331710644277/1058905634193551480/Banking_UI.png?width=1214&height=683)
+![Full Preview of the Bankig System](https://media.discordapp.net/attachments/762036331710644277/1058905634193551480/Banking_UI.png?width=1214&height=683)
 
 ## My Discord
 [Click here to join my Discord server:](https://discord.gg/ct5apdKCk2)
