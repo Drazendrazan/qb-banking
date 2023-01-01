@@ -2,6 +2,7 @@
 Re worked by OXYFW
 https://discord.gg/ct5apdKCk2
 Mahfuz#0011
+Thank you
  */
 
 var Config = new Object();
